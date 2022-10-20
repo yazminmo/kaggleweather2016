@@ -1,6 +1,10 @@
 # kaggleweather2016
 Autoregressive models for multi-step time series forecasting for a multivariate air pollution time series.
-The problem
+
+
+The problem:
+
+
 
 The Air Quality Prediction dataset describes weather conditions at multiple sites and requires a prediction of air quality measurements over the subsequent three days.
 
